@@ -1,6 +1,6 @@
 {
 	"name": "lango",
-	"version": "0.1.15",
+	"version": "0.1.16",
 	"description": "Lightweight simple translation module for node.js and browser.",
 	"main": "lib/i18n.js",
 	"files": [
