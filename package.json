@@ -1,0 +1,32 @@
+{
+	"name": "lango",
+	"version": "0.1.15",
+	"description": "Lightweight simple translation module for node.js and browser.",
+	"main": "lib/i18n.js",
+	"files": [
+		"lib/*",
+		"drivers/*",
+		"plugin/*"
+	],
+	"scripts": {},
+	"keywords": [
+		"i18n",
+		"translate",
+		"translation",
+		"internationalization",
+		"vue",
+		"plugin",
+		"node",
+		"browser"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/flowstudio/lango.git"
+	},
+	"homepage": "https://github.com/flowstudio/lango#readme",
+	"author": "adamcikado",
+	"license": "MIT",
+	"dependencies": {
+		"sprintf-js": "^1.1.2"
+	}
+}
