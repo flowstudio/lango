@@ -1,6 +1,6 @@
 {
 	"name": "lango",
-	"version": "0.1.16",
+	"version": "0.1.17",
 	"description": "Lightweight simple translation module for node.js and browser.",
 	"main": "dist/lango.common.js",
 	"module": "dist/lango.esm.js",
