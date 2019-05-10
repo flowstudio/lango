@@ -20,11 +20,8 @@ then
   # commit
   npm version $VERSION --message "chore(release): %s"
   # VERSION=$VERSION npm run build
-  git add dist
-  git commit --amend --no-edit # merge with previous commit
-
-  echo "Please the git history and press enter"
-  read OKAY
+  #git add dist
+  #git commit --amend --no-edit # merge with previous commit
 
   # publish
   git push origin refs/tags/v$VERSION
