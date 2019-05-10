@@ -1,6 +1,6 @@
 {
 	"name": "lango",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Lightweight simple translation module for node.js and browser.",
 	"main": "lib/lango.js",
 	"files": [
