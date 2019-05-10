@@ -19,7 +19,7 @@ then
 
   # commit
   npm version $VERSION --message "chore(release): %s"
-  VERSION=$VERSION npm run build
+  # VERSION=$VERSION npm run build
   git add dist
   git commit --amend --no-edit # merge with previous commit
 
